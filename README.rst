@@ -1,6 +1,3 @@
-|screencast_basic|
-
-More screencasts: `installation`_, `advanced usage`_
 
 What is BorgBackup?
 -------------------
